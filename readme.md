@@ -17,7 +17,7 @@ is exposed via a RESTFUL API.
 * Run **php artisan migrate** for the migrations <br/>
 * Run **php artisan key:generate** <br/>
 * Run **npm install** for running Vuejs depedencies found in package.json file <br/>
-* Run **npm run serve** to start the Vuejs server
+* Run **npm run serve** to start dev server with hot reload.
 * Run **npm run dev** for Laravel mix to compile frontend assets
 
 ## License
