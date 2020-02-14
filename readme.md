@@ -11,7 +11,7 @@ is exposed via a RESTFUL API.
 * MySQL RDBMS <br/>
 
 # Installation
-* Clone the folder.  **git clone project-name**  <br/>
+* Clone the project.  **git clone project-name**  <br/>
 * Run **composer install** <br/>
 * Copy .env.example to .env **cp .env.example .en** and configure database credentials <br/>
 * Run **php artisan migrate** for the migrations <br/>
